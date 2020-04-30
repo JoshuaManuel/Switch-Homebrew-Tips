@@ -2,7 +2,7 @@
 ## Switch string symbols
 ### Usage
 
-Use it like this: "\ue0e1 to Exit"
+"Press \ue0e1 to Exit"
 
 ^^ Small symbol of the B button
 
